@@ -6,7 +6,7 @@ Ez egy teljesen 'fanmade' magyar fordítás Nintendo Switch -hez.
 ### Mi szükséges hozzá?
 Csak egy CFW -vel rendelkező Switch szükséges.<br>
 A fordítás ReiNX CFW -n készül, de működik Atmosphere, Hekate, és SX OS -el is.<br>
-Az alap FW pedig amire készül 7.0.1, de amint működőképes lesz ReiNX CFW -vel a 8.0.0, arra is elérhető lesz. (Alacsonyabb verzió számú FW -re (7.0.1 alatt!) nem lesz elérhető!)
+Az alap FW pedig amire készül az a 10.1.0, ReiNX 3.0 CFW -vel. (Alacsonyabb verzió számú FW -re (10.1.0 alatt!) is feltelepíthető, de a tökéletes működést nem tudom garantálni!)
 
 ### Mi kerül fordításra?
 Majdnem minden, kivéve az eShop, és egyéb online tartalmak, amiket teljesen felesleges lenne lefordítani, mert egy CFW -vel rendelkező Switch -en, soha nem találkoznánk vele.
